@@ -1,0 +1,44 @@
+#heading{
+    color:rgba(123, 37, 235, 0.637);
+     display: block;
+    display: flex;
+    justify-content: center; 
+    width: auto;
+   
+}
+#heading:hover{
+    color: aqua;
+}
+.mynav{
+    background-color: rgb(245, 100, 17);
+    text-align: left;
+}
+.button:hover{
+    background-color: blue;
+}
+#top{
+    font-family: sans-serif;
+    font-style: normal;
+
+}
+#middle{
+    font-family: sans-serif;
+    font-weight: 150;
+
+}
+#bottom{
+    font-family: sans-serif;
+    background-color: rgb(228, 115, 203);
+    height: 100px;
+    display: inline;
+}
+#pic{
+    height: 150px;
+    width: 200px;
+}
+.Beagle{
+    font-family:Verdana;
+    font-weight: bold;
+    color: red;
+    display:inline;
+}
